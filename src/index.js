@@ -21,6 +21,8 @@ function main() {
           humidity={76}
         />
       </div>
+      <a href="https://github.com/samirashad/weather-react">open source code</a>{" "}
+      by samira shad
     </div>
   );
 }
